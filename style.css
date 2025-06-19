@@ -30,7 +30,7 @@ input {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #ff0000;
   color: white;
   padding: 10px;
   border: none;
@@ -39,6 +39,7 @@ button {
   width: 100%;
   font-size: 18px;
   text-transform: uppercase;
+  border-radius: 50px;
   transition: background-color 0.2s ease;
 } /*calculate button styles*/
 
